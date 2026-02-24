@@ -1,0 +1,22 @@
+Privacy Policy for LinkFlow
+1. Introduction
+
+LinkFlow ("we," "our," or "pudding.dev") values your privacy. This policy explains how we handle information when you use our Chrome Extension.
+
+2. Data Collection and Usage
+
+No Personal Data Collection: LinkFlow does not collect, store, or transmit any personal identification information.
+
+Local Processing Only: All link extraction and tab-opening processes occur locally on your device. We do not have access to the text you paste or the URLs you open.
+
+No Third-Party Sharing: Since we do not collect data, no information is shared with third parties.
+
+3. Permissions Justification
+
+Tabs: Used solely to open the extracted URLs in new browser tabs.
+
+ClipboardRead: Used only to allow the "Paste" functionality within the extension interface.
+
+4. Contact
+
+For any questions regarding this policy, please contact us at your dedicated email address.
