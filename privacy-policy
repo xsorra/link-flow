@@ -1,22 +1,88 @@
-Privacy Policy for LinkFlow
-1. Introduction
+Privacy Policy
 
-LinkFlow ("we," "our," or "pudding.dev") values your privacy. This policy explains how we handle information when you use our Chrome Extension.
+LinkFlow – Chrome Extension
+Last Updated: March 3, 2026
 
-2. Data Collection and Usage
+⸻
 
-No Personal Data Collection: LinkFlow does not collect, store, or transmit any personal identification information.
+1. Overview
 
-Local Processing Only: All link extraction and tab-opening processes occur locally on your device. We do not have access to the text you paste or the URLs you open.
+LinkFlow is a Chrome extension that allows users to paste a URL and extract links or structured data from that webpage.
 
-No Third-Party Sharing: Since we do not collect data, no information is shared with third parties.
+We respect your privacy. LinkFlow does not collect, store, transmit, or sell personal data.
 
-3. Permissions Justification
+⸻
 
-Tabs: Used solely to open the extracted URLs in new browser tabs.
+2. Information We Collect
 
-ClipboardRead: Used only to allow the "Paste" functionality within the extension interface.
+We do not collect personal information.
 
-4. Contact
+Specifically:
+	•	We do not collect names, emails, or account information
+	•	We do not track browsing history
+	•	We do not collect analytics or usage data
+	•	We do not use cookies
+	•	We do not use third-party tracking tools
 
-For any questions regarding this policy, please contact us at your dedicated email address.
+When you paste a URL into the extension, the URL is processed locally in your browser solely to extract links or page data.
+
+⸻
+
+3. How LinkFlow Works
+
+When you paste a URL:
+	1.	The extension accesses the provided webpage.
+	2.	It extracts links or structured data from that page.
+	3.	It displays the extracted results inside the extension interface.
+
+All processing occurs locally in the user’s browser environment unless otherwise stated. No extracted content is transmitted to external servers.
+
+⸻
+
+4. Permissions Explanation
+
+The extension may request the following permissions:
+	•	activeTab – To access a page when required by user interaction
+	•	scripting – To extract links or page data
+	•	host permissions – To access the specific URL the user provides
+	•	downloads (if applicable) – To export extracted results
+
+Permissions are used strictly to enable the extension’s core functionality.
+
+⸻
+
+5. Data Storage
+
+LinkFlow does not store extracted data on external servers.
+
+If local storage (e.g., chrome.storage) is used, it is limited to saving user preferences (such as settings or formatting choices) and remains stored only within the user’s browser.
+
+⸻
+
+6. Remote Code
+
+This extension does not use remote code.
+All functionality is packaged within the extension.
+
+⸻
+
+7. Data Sharing
+
+We do not:
+	•	Sell user data
+	•	Share user data
+	•	Transfer user data to third parties
+
+Because no personal data is collected, no data is shared.
+
+⸻
+
+8. Data Security
+
+All processing occurs locally within the user’s browser. No external databases or servers are used to store extracted information.
+
+⸻
+
+9. Changes to This Policy
+
+If the extension’s functionality changes, this Privacy Policy will be updated and published with a revised effective date.
