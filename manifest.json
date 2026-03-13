@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
   "name": "LinkFlow",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Paste anything from Google Docs (text + links). Extracts real hyperlinks and opens them in multiple tabs.",
-  "permissions": ["tabs", "clipboardRead"],
+  "permissions": ["clipboardRead"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
